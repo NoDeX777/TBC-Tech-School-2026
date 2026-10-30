@@ -1,0 +1,19 @@
+p {
+    color: red;
+    font-size: 20px;
+}
+
+h3 {
+    color: blue;
+    font-size: 30px;
+}
+
+button {
+    color: green;
+    font-size: 40px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}

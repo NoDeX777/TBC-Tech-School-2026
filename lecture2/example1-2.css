@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+section {
+    background-color: white;
+}
+
+h3 {
+    border: 20px solid blue;
+}
+
+button {
+    width: 100px;
+    height: 100px;
+    border-radius: 30%;
+}
+
+p {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 20px;
+    line-height: 20px;
+    color: blue;
+}
+
+.paragraph_black {
+    color: black;
+}
+
+.paragraph_green {
+    color: green;
+}

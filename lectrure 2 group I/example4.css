@@ -1,0 +1,39 @@
+.card {
+    color: blue;
+    border: 3px solid black;
+    width: 300px;
+    margin-left: 50px;
+}
+
+.card-image img {
+    width: 300px;
+    height: 300px;
+}
+
+.card-content h3 {
+    font-size: 12px;
+    width: 200px;
+}
+
+.card-content p {
+    font-size: 10px;
+    width: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.card-content button {
+    background-color: blue;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.card-content button:hover {
+    background-color: aqua;
+}
+
+.card:hover {
+    background-color: green;
+}

@@ -1,0 +1,43 @@
+.container {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: 0px;
+}
+
+.container:hover {
+    background-color: red;
+    color: yellow;
+}
+
+.section-content {
+    padding-top: 30px
+}
+
+.section-content button {
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 30px;
+    border-radius: 5px;
+    background-color: darkturquoise;
+}
+
+.section-content button:hover {
+    background-color: chartreuse;
+    /* font-size: 30px; */
+
+}
+
+.section-content button:active {
+    background-color: red;
+}
+
+.section-image img {
+    width: 501px;
+    height: 304px;
+    border-radius: 20px;
+}
